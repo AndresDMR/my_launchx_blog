@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Con este proyecto, quiero aprender sobre:
 
-- Programación de páginas Web
-- Utilizar herramientas como GitHub y editores de código
-- Compartir mi progreso 
+-Programación de páginas Web
+-Utilizar herramientas como GitHub y editores de código
+-Compartir mi progreso 
 
 🚀
